@@ -26,14 +26,23 @@ The project uses the **Credit Card Fraud Detection Dataset** from Kaggle:
 - **Temporal Patterns**: Time-based transaction analysis
 - **Amount Variations**: Wide range of transaction amounts
 
-# Prerequisites
+# Prerequisites:
 - Python 3.8 or higher
 - Jupyter Notebook or Google Colab
 - Git
 
-# Setup Instructions
-
-1. **Clone the repository**
+# Setup Instructions:
+**Clone the repository**
    ```bash
    git clone https://github.com/Alibek-07/Credit-Card-Fraud-Detection-Analysis.git
    cd Credit-Card-Fraud-Detection-Analysis
+
+# Author:
+**Alibek Dadajonov**  
+GitHub: [Alibek-07](https://github.com/Alibek-07)
+
+---
+
+# License:
+This project is open-source under the MIT License.
+
